@@ -20,7 +20,7 @@ urlpatterns = [
     path('hello/', views.hello, name="hello"),
     path(),
 ]
-```
+``` 
 
 2-1 첫번째 매개변수 "들어올 URL"
 
