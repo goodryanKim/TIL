@@ -89,7 +89,7 @@ views함수들은 http랜더를 리턴해야함
 render(함수는 매개변수 3개 가질 수 있다)
 
 render(request -> 고정 대신 , "html 파일명", context -> dic자료구조)
-
+ 
 ```python
 from django.shortcuts import render
 
